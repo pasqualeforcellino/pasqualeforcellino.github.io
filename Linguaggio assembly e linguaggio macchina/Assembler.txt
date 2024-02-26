@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>Assembler</title>
+
+</head>
+
+<body>
+
+    <h1>Assembler</h1>
+
+    <h2>
+
+Il termine "assembler" può essere utilizzato in vari contesti, ma comunemente si riferisce a due cose principali: il linguaggio Assembly e lo strumento software chiamato "assembler" che traduce il codice Assembly in linguaggio macchina eseguibile.
+
+    </h2>
+
+    <a href="Linguaggi.html">Ritorna alla pagina dei linguaggi</a>
+
+</body>
+
+</html>
